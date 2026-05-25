@@ -2,9 +2,9 @@
 
 ## Business Requirements
 
-- An MVP of a Kanban style Project Management application as a web app  
+- An MVP of a Kanban style Project Management application as a web app
 - The web app should only have 1 board
-- The board has fixed 5 columns that can be renamed  
+- The board has fixed 5 columns that can be renamed
 - Each card has a title and details only
 - Drag and drop interface to move cards between columns
 - Add a new card to a column; delete an existing card
